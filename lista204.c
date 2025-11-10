@@ -21,7 +21,7 @@ int horario_valido(horario_type horario) {
     //     return 0;
     // return 1;
 
-    // // versçao 3:
+    // // versão 3:
     // if (h < 0 || h > 23)
     //     return 0;
     // if (m < 0 || m > 59)
